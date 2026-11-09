@@ -253,6 +253,12 @@ a:focus-visible,
     url("../img/page-hero-library.jpg") center / cover no-repeat;
 }
 
+.PageHero--about {
+  background:
+    linear-gradient(rgba(33, 20, 18, 0.72), rgba(53, 33, 30, 0.76)),
+    url("../img/page-hero-nosotros.jpg") center / cover no-repeat;
+}
+
 .PageHero--services {
   background:
     linear-gradient(rgba(33, 20, 18, 0.72), rgba(53, 33, 30, 0.76)),
