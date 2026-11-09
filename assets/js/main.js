@@ -569,6 +569,30 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   };
 
+  const setupProfileModals = () => {
+    document.querySelectorAll("[data-profile-open]").forEach((button) => {
+      const modal = document.querySelector(`[data-profile="${button.dataset.profileOpen}"]`);
+
+      if (!modal) {
+        return;
+      }
+
+      button.addEventListener("click", (event) => {
+        event.stopPropagation();
+        modal.showModal();
+      });
+    });
+
+    document.querySelectorAll("[data-profile]").forEach((modal) => {
+      modal.querySelector("[data-profile-close]")?.addEventListener("click", () => modal.close());
+      modal.addEventListener("click", (event) => {
+        if (event.target === modal) {
+          modal.close();
+        }
+      });
+    });
+  };
+
   const setupServiceFilters = () => {
     if (!servicesTrack) {
       return;
@@ -1018,6 +1042,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setupAdviceLinks();
   setupTeamCards();
   setupCaseModal();
+  setupProfileModals();
   setupServiceFilters();
   setupServicesScroll();
   setupServiceModal();
