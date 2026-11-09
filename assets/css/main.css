@@ -1035,6 +1035,92 @@ a:focus-visible,
   line-height: 1.4;
 }
 
+.TeamGrid-profileButton {
+  margin-top: 0.85rem;
+  border: 0.0625rem solid var(--color-gold-500);
+  border-radius: 999px;
+  padding: 0.45rem 1.1rem;
+  background: transparent;
+  color: var(--color-brown-900);
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background var(--duration-base) ease, color var(--duration-base) ease;
+}
+
+.TeamGrid-profileButton:hover,
+.TeamGrid-profileButton:focus-visible {
+  background: var(--color-gold-500);
+  color: var(--color-white);
+}
+
+/* Perfil ampliado de integrantes */
+.ProfileModal {
+  width: min(46rem, calc(100% - 2rem));
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+}
+
+.ProfileModal-header {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.ProfileModal-photo {
+  flex-shrink: 0;
+  width: 6.5rem;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top;
+  border: 0.1875rem solid var(--color-gold-500);
+}
+
+.ProfileModal-header .CaseModal-title {
+  margin-bottom: 0;
+}
+
+.ProfileModal-body {
+  margin-bottom: 1.5rem;
+  color: var(--color-muted);
+  font-family: var(--font-body);
+  line-height: 1.7;
+}
+
+.ProfileModal-body h3 {
+  margin: 1.5rem 0 0.5rem;
+  color: var(--color-gold-500);
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+}
+
+.ProfileModal-body p {
+  margin: 0 0 0.75rem;
+}
+
+.ProfileModal-body ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.ProfileModal-body li + li {
+  margin-top: 0.35rem;
+}
+
+@media (max-width: 36rem) {
+  .ProfileModal {
+    padding: 1.5rem 1.25rem;
+  }
+
+  .ProfileModal-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
 .CaseStudies-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
