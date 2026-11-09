@@ -28,15 +28,15 @@ sin necesidad de atribución.
 | `servicio-marketing.jpg` | Servicio: Marketing digital | https://images.unsplash.com/photo-1460925895917-afdab827c52f |
 | `servicio-sst.jpg` | Servicio: Salud y seguridad en el trabajo | https://images.unsplash.com/photo-1504307651254-35680f356dfd |
 | `servicios-valores.jpg` | Servicios: sección Compromiso de excelencia | https://images.unsplash.com/photo-1556761175-b413da4baf72 |
-| `blog-publicidad.jpg` | Blog: publicidad engañosa | https://images.unsplash.com/photo-1563013544-824ae1b704d3 |
-| `blog-reparacion.jpg` | Blog: reparación directa | https://images.unsplash.com/photo-1453945619913-79ec89a82c51 |
-| `blog-contratos.jpg` | Blog: contratos de adhesión | https://images.unsplash.com/photo-1521791055366-0d553872125f |
-| `blog-desconexion.jpg` | Blog: desconexión laboral | https://images.unsplash.com/photo-1499750310107-5fef28a66643 |
-| `blog-ia.jpg` | Blog: inteligencia artificial financiera | https://images.unsplash.com/photo-1677442136019-21780ecad995 |
-| `blog-lavado.jpg` | Blog: lavado de activos | https://images.unsplash.com/photo-1526304640581-d334cdbbf45e |
+| `blog-publicidad.jpg` | Blog: precios tras el sismo (SIC) | https://images.unsplash.com/photo-1563013544-824ae1b704d3 |
+| `blog-reparacion.jpg` | Blog: tutelas contra el presidente | https://images.unsplash.com/photo-1453945619913-79ec89a82c51 |
+| `blog-contratos.jpg` | Blog: acuerdo MinTrabajo y Corte Suprema | https://images.unsplash.com/photo-1521791055366-0d553872125f |
+| `blog-lavado.jpg` | Blog: Ley de Rescate Económico | https://images.unsplash.com/photo-1526304640581-d334cdbbf45e |
 | `caso-policivo.jpg` | Caso: posesión (policivo) | https://images.unsplash.com/photo-1568605114967-8130f3a36994 |
 | `caso-simulacion.jpg` | Caso: simulación contractual | https://images.unsplash.com/photo-1554224154-26032ffc0d07 |
 | `caso-insolvencia.jpg` | Caso: insolvencia | https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3 |
 | `caso-penal.jpg` | Caso: defensa penal | https://images.unsplash.com/photo-1589391886645-d51941baf7fb |
 | `caso-laboral.jpg` | Caso: terminación laboral | https://images.unsplash.com/photo-1517048676732-d65bc937f952 |
 | `caso-contrato-comercial.jpg` | Caso: contrato comercial | https://images.unsplash.com/photo-1600880292089-90a7e086ee0c |
+| `blog-comercio-exterior.jpg` | Blog: importaciones y trabajo forzoso | https://images.unsplash.com/photo-1578575437130-527eed3abbec |
+| `blog-recicladores.jpg` | Blog: derechos de los recicladores | https://images.unsplash.com/photo-1532996122724-e3c354a0b15b |
