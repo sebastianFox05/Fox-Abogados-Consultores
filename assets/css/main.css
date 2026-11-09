@@ -250,7 +250,7 @@ a:focus-visible,
   padding-top: var(--header-height);
   background:
     linear-gradient(rgba(33, 20, 18, 0.72), rgba(53, 33, 30, 0.76)),
-    url("../img/page-hero-library.jpg") center / cover no-repeat;
+    url("../img/page-hero-nosotros.jpg") center / cover no-repeat;
 }
 
 .PageHero--about {
@@ -262,25 +262,25 @@ a:focus-visible,
 .PageHero--services {
   background:
     linear-gradient(rgba(33, 20, 18, 0.72), rgba(53, 33, 30, 0.76)),
-    url("../img/page-hero-library.jpg") center / cover no-repeat;
+    url("../img/page-hero-servicios.jpg") center / cover no-repeat;
 }
 
 .PageHero--blog {
   background:
     linear-gradient(rgba(33, 20, 18, 0.72), rgba(53, 33, 30, 0.76)),
-    url("../img/page-hero-library.jpg") center / cover no-repeat;
+    url("../img/page-hero-blog.jpg") center / cover no-repeat;
 }
 
 .PageHero--cases {
   background:
     linear-gradient(rgba(33, 20, 18, 0.72), rgba(53, 33, 30, 0.76)),
-    url("../img/page-hero-library.jpg") center / cover no-repeat;
+    url("../img/page-hero-casos.jpg") center / cover no-repeat;
 }
 
 .PageHero--contact {
   background:
     linear-gradient(rgba(33, 20, 18, 0.72), rgba(53, 33, 30, 0.76)),
-    url("../img/page-hero-library.jpg") center / cover no-repeat;
+    url("../img/page-hero-contacto-oficina.jpg") center / cover no-repeat;
 }
 
 .PageHero-overlay {
@@ -3250,7 +3250,7 @@ a.ContactPage-detail:hover {
   padding: 4rem 1.25rem 1.5rem;
   background:
     linear-gradient(rgba(53, 33, 30, 0.98), rgba(53, 33, 30, 0.84)),
-    url("../img/footer-fox.jpg") center / cover no-repeat;
+    url("../img/footer-libros.jpg") center / cover no-repeat;
   color: var(--color-muted);
   text-align: center;
 }

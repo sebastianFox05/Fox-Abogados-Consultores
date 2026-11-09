@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
     penal: {
       category: "Legal",
       title: "Derecho penal",
-      image: "assets/img/oficina-fox.jpg",
+      image: "assets/img/servicio-penal.jpg",
       copy: "Defensa tecnica para proteger libertad, reputacion y patrimonio ante investigaciones, audiencias y procesos penales.",
       items: [
         { title: "Defensa en procesos penales", text: "Representacion estrategica en tribunales de alta complejidad." },
@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", () => {
     civil: {
       category: "Legal",
       title: "Derecho civil y procesal",
-      image: "assets/img/oficina-fox.jpg",
+      image: "assets/img/servicio-civil.jpg",
       copy: "Estrategia para reclamaciones civiles, contratos, cobros, responsabilidad y litigios con enfoque en prueba y oportunidad.",
       items: [
         { title: "Contratos y reclamaciones", text: "Revision, redaccion y exigibilidad de obligaciones civiles." },
@@ -100,7 +100,7 @@ document.addEventListener("DOMContentLoaded", () => {
     administrativo: {
       category: "Legal",
       title: "Derecho administrativo",
-      image: "assets/img/espacios-fox.jpg",
+      image: "assets/img/servicio-administrativo.jpg",
       copy: "Defensa y asesoria frente a entidades publicas, actos administrativos, sanciones y procedimientos estatales.",
       items: [
         { title: "Peticiones y recursos", text: "Respuesta juridica frente a actos, omisiones y decisiones administrativas." },
@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", () => {
     laboral: {
       category: "Legal",
       title: "Derecho laboral",
-      image: "assets/img/brandon-fox.jpg",
+      image: "assets/img/servicio-laboral.jpg",
       copy: "Soporte para empresas y trabajadores en relaciones laborales, contratos, liquidaciones, reclamaciones y conflictos.",
       items: [
         { title: "Contratos y reglamentos", text: "Estructura documental para relaciones laborales claras y sostenibles." },
@@ -122,7 +122,7 @@ document.addEventListener("DOMContentLoaded", () => {
     insolvencia: {
       category: "Legal",
       title: "Insolvencia economica",
-      image: "assets/img/valores.jpg",
+      image: "assets/img/servicio-insolvencia.jpg",
       copy: "Ruta juridica para reorganizar obligaciones, negociar con acreedores y recuperar estabilidad patrimonial.",
       items: [
         { title: "Diagnostico de deudas", text: "Lectura integral de obligaciones, riesgos y capacidad de pago." },
@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", () => {
     familia: {
       category: "Legal",
       title: "Derecho de familia",
-      image: "assets/img/lilieth-chavez.jpg",
+      image: "assets/img/servicio-familia.jpg",
       copy: "Acompanamiento sensible y estrategico en asuntos familiares que requieren acuerdos claros y proteccion de derechos.",
       items: [
         { title: "Alimentos, custodia y visitas", text: "Definicion de acuerdos equilibrados y proteccion de menores." },
@@ -144,7 +144,7 @@ document.addEventListener("DOMContentLoaded", () => {
     inmobiliario: {
       category: "Legal",
       title: "Bienes raices",
-      image: "assets/img/martillo.png",
+      image: "assets/img/servicio-bienes-raices.jpg",
       copy: "Revision y estructura legal para operaciones inmobiliarias, contratos, arrendamientos y saneamiento de riesgos.",
       items: [
         { title: "Estudio de titulos", text: "Revision de antecedentes, cargas y riesgos de la operacion." },
@@ -155,7 +155,7 @@ document.addEventListener("DOMContentLoaded", () => {
     frontend: {
       category: "Consultoria",
       title: "Desarrollo frontend",
-      image: "assets/img/blog2.jpg",
+      image: "assets/img/servicio-frontend.jpg",
       copy: "Construccion de interfaces web limpias, responsive y mantenibles para proyectos que necesitan presencia digital seria.",
       items: [
         { title: "Interfaces web", text: "Construccion HTML, CSS y JavaScript con estructura mantenible." },
@@ -166,7 +166,7 @@ document.addEventListener("DOMContentLoaded", () => {
     contaduria: {
       category: "Consultoria",
       title: "Contaduria",
-      image: "assets/img/oficina-fox.jpg",
+      image: "assets/img/servicio-contaduria.jpg",
       copy: "Apoyo contable para ordenar informacion financiera, entender obligaciones y tomar decisiones con datos claros.",
       items: [
         { title: "Soportes contables", text: "Orden documental y clasificacion de informacion financiera." },
@@ -177,7 +177,7 @@ document.addEventListener("DOMContentLoaded", () => {
     comunicacion: {
       category: "Consultoria",
       title: "Comunicacion social",
-      image: "assets/img/espacios-fox.jpg",
+      image: "assets/img/servicio-comunicacion.jpg",
       copy: "Construccion de mensajes, reputacion y contenidos para organizaciones que necesitan comunicar con precision.",
       items: [
         { title: "Mensajes institucionales", text: "Narrativas claras para clientes, equipos y aliados." },
@@ -188,7 +188,7 @@ document.addEventListener("DOMContentLoaded", () => {
     marketing: {
       category: "Consultoria",
       title: "Marketing digital",
-      image: "assets/img/valores.jpg",
+      image: "assets/img/servicio-marketing.jpg",
       copy: "Estrategias de visibilidad digital orientadas a atraer clientes, ordenar canales y medir resultados.",
       items: [
         { title: "Estrategia de contenido", text: "Plan editorial orientado a posicionamiento y confianza." },
@@ -199,7 +199,7 @@ document.addEventListener("DOMContentLoaded", () => {
     sst: {
       category: "Consultoria",
       title: "Salud y seguridad en el trabajo",
-      image: "assets/img/equipo-generico.jpg",
+      image: "assets/img/servicio-sst.jpg",
       copy: "Acompanamiento para prevenir riesgos, documentar procesos y cumplir obligaciones en seguridad laboral.",
       items: [
         { title: "Diagnostico de riesgos", text: "Identificacion de amenazas y prioridades de intervencion." },
