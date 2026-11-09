@@ -221,47 +221,47 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   const blogDetails = {
-    publicidad: {
-      date: "Diciembre 2025",
-      title: "SIC refuerza sanciones por publicidad enganosa en ventas digitales",
-      tags: ["Consumo", "Actualidad Regulatoria"],
-      source: "https://www.sic.gov.co",
-      body: "La vigilancia sobre ventas digitales exige que las empresas revisen con detalle sus piezas publicitarias, terminos promocionales y mensajes comerciales.\n\nCuando una oferta induce a error sobre precio, condiciones, disponibilidad o beneficios reales, la autoridad puede imponer sanciones y ordenar ajustes inmediatos. Para comercios y profesionales, la recomendacion es documentar cada campana, conservar soportes y publicar condiciones claras antes de activar cualquier promocion.",
+    recicladores: {
+      date: "Noviembre 2026",
+      title: "Corte Constitucional convoca audiencia pública sobre los derechos de los recicladores en Bogotá",
+      tags: ["Constitucional", "Acciones Afirmativas"],
+      source: "https://www.asuntoslegales.com.co/actualidad/audiencia-para-revisar-garantias-de-los-recicladores-4517049",
+      body: "La Corte Constitucional convocó para el 13 de noviembre de 2026 una audiencia pública para examinar cómo se garantizarán los derechos y la participación de los recicladores de oficio en el nuevo esquema de prestación y contratación del servicio de aseo en Bogotá.\n\nLa diligencia hace parte del seguimiento a la Sentencia T-724 de 2003, que ordenó adoptar acciones afirmativas a favor de esta población, y contará con organizaciones de recicladores, entidades del Gobierno Nacional y del Distrito, y organismos de vigilancia y regulación.\n\nPara empresas de servicios públicos y contratistas del sector, el mensaje es claro: los procesos de contratación deben incorporar medidas verificables de inclusión, so pena de enfrentar cuestionamientos judiciales.",
     },
-    reparacion: {
-      date: "Octubre 2025",
-      title: "Consejo de Estado redefine la carga probatoria en demandas de reparacion directa",
-      tags: ["Jurisprudencia", "Reparacion Directa"],
-      source: "https://www.consejodeestado.gov.co",
-      body: "La reparacion directa exige una preparacion probatoria cada vez mas rigurosa. El analisis debe iniciar con la identificacion del dano, el nexo causal y la actuacion u omision atribuible a la administracion.\n\nUna estrategia solida no depende solo de narrar los hechos: requiere soportes tecnicos, documentos oportunos, trazabilidad de la afectacion y una teoria del caso consistente desde la reclamacion inicial.",
+    rescate: {
+      date: "Octubre 2026",
+      title: "Gobierno radica la Ley de Rescate Económico con cambios en renta, IVA y sanciones",
+      tags: ["Tributario", "Proyecto de Ley"],
+      source: "https://www.larepublica.co/economia/estos-son-los-cinco-puntos-claves-que-contiene-la-ley-de-rescate-economico-del-gobierno-4514369",
+      body: "El Ministerio de Hacienda radicó el 29 de octubre de 2026 en la Cámara de Representantes el Proyecto de Ley 477 de 2026, conocido como Ley de Rescate Económico. Con 105 artículos, combina cambios tributarios, recortes al gasto estatal y la devolución del IVA a hogares vulnerables.\n\nEntre sus propuestas figuran ajustes en el impuesto de renta, el IVA y el régimen sancionatorio, como una sanción por no facturar calculada sobre los ingresos del mes anterior. El Gobierno solicitó mensaje de urgencia para que el Congreso lo apruebe antes de terminar el año.\n\nAl tratarse de un proyecto, su texto puede cambiar durante el trámite. Recomendamos a empresas y personas naturales revisar su planeación tributaria para 2027 y hacer seguimiento a los debates.",
     },
-    clausulas: {
-      date: "Noviembre 2025",
-      title: "Corte Constitucional limita el uso de clausulas abusivas en contratos de adhesion",
-      tags: ["Constitucional", "Proteccion al Consumidor"],
-      source: "https://www.corteconstitucional.gov.co",
-      body: "Los contratos de adhesion deben proteger el equilibrio entre las partes, incluso cuando una de ellas impone el contenido contractual. Las clausulas que restringen defensas, trasladan cargas excesivas o reducen informacion relevante pueden generar riesgos judiciales y reputacionales.\n\nLa revision preventiva de modelos contractuales permite corregir ambiguedades, fortalecer la transparencia y evitar controversias posteriores con consumidores o usuarios.",
+    laboral: {
+      date: "Octubre 2026",
+      title: "MinTrabajo y la Corte Suprema firman acuerdo para difundir derechos laborales y el nuevo Código Procesal del Trabajo",
+      tags: ["Derecho Laboral", "Código Procesal del Trabajo"],
+      source: "https://www.radiohoy.com/2026/10/14/mintrabajo-y-corte-suprema-firman-acuerdo-para-fortalecer-los-derechos-laborales-en-colombia/825160/",
+      body: "El Ministerio del Trabajo y la Corte Suprema de Justicia firmaron el 14 de octubre de 2026 un memorando de entendimiento para difundir la legislación laboral y facilitar el acceso de trabajadores y empleadores a la información sobre sus derechos y a las decisiones judiciales.\n\nEl acuerdo tendría una duración aproximada de cuatro años e incluye la divulgación del nuevo Código Procesal del Trabajo y de la Seguridad Social (Ley 2452 de 2025), vigente desde abril de 2026, que convierte la doble instancia en la regla general.\n\nPara las empresas, es un buen momento para revisar sus procedimientos disciplinarios, contratos y políticas internas a la luz de las nuevas reglas procesales.",
     },
-    desconexion: {
-      date: "Agosto 2025",
-      title: "MinTrabajo emite lineamientos obligatorios sobre desconexion laboral digital",
-      tags: ["Derecho Laboral", "Regulacion Empresarial"],
-      source: "https://www.mintrabajo.gov.co",
-      body: "La desconexion laboral digital debe convertirse en una politica verificable, no en una declaracion aislada. Las empresas necesitan reglas claras sobre horarios, canales de comunicacion, disponibilidad, urgencias y mecanismos de reporte.\n\nUna implementacion ordenada reduce conflictos laborales, protege la salud mental del equipo y ayuda a demostrar cumplimiento frente a inspecciones o reclamaciones.",
+    tutelas: {
+      date: "Septiembre 2026",
+      title: "Tutelas contra el presidente vuelven a ser repartidas al Consejo de Estado",
+      tags: ["Constitucional", "Acción de Tutela"],
+      source: "https://www.asuntoslegales.com.co/actualidad/tutelas-contra-el-presidente-volveran-a-ser-competencia-del-consejo-de-estado-4492561",
+      body: "El Ministerio de Justicia expidió el Decreto 1446 del 28 de septiembre de 2026, que modifica las reglas de reparto de la acción de tutela. Las tutelas contra actuaciones u omisiones del presidente de la República en ejercicio de sus funciones se repartirán en primera instancia al Consejo de Estado.\n\nLa norma retoma una regla que ya existía en decretos anteriores y que había cambiado en 2025, cuando estas tutelas pasaron a los jueces del circuito. El decreto contempla una excepción para las tutelas relacionadas con la erradicación de cultivos ilícitos y rige desde su publicación en el Diario Oficial.\n\nSe trata de una regla de reparto, no de competencia: la tutela sigue disponible para cualquier ciudadano y la Corte Constitucional conserva su función de revisión.",
     },
-    ia: {
-      date: "Noviembre 2025",
-      title: "Superfinanciera emite lineamientos sobre uso de inteligencia artificial en entidades financieras",
-      tags: ["Regulacion", "Tecnologia Financiera"],
-      source: "https://www.superfinanciera.gov.co",
-      body: "El uso de inteligencia artificial en servicios financieros exige controles sobre explicabilidad, sesgos, seguridad de datos y supervision humana. La adopcion tecnologica no elimina la responsabilidad de la entidad frente al usuario.\n\nLas organizaciones deben contar con matrices de riesgo, protocolos de auditoria y documentacion que permita explicar como se toman decisiones automatizadas o asistidas por algoritmos.",
+    trabajoforzoso: {
+      date: "Septiembre 2026",
+      title: "Colombia prohíbe importar bienes producidos con trabajo forzoso",
+      tags: ["Comercio Exterior", "Compliance"],
+      source: "https://normograma.dian.gov.co/dian/compilacion/docs/decreto_1444_2026.htm",
+      body: "El Decreto 1444 del 28 de septiembre de 2026, expedido por el Ministerio de Comercio, Industria y Turismo, prohíbe la importación de bienes extraídos, producidos, manufacturados o transformados total o parcialmente con trabajo forzoso u obligatorio, según la definición del Convenio 29 de la OIT.\n\nLa mercancía en esa situación se considera de prohibida importación, lo que puede llevar a su aprehensión y decomiso, y a sanciones conforme a la Ley 2586 de 2026. La DIAN está a cargo del control y la fiscalización.\n\nEl decreto no crea un certificado único que acredite que una importación está libre de trabajo forzoso. Por eso recomendamos a los importadores mapear su cadena de suministro, exigir declaraciones a sus proveedores y conservar la documentación de origen.",
     },
-    compliance: {
-      date: "Octubre 2025",
-      title: "Ministerio de Justicia actualiza guia de cumplimiento contra lavado de activos para abogados",
-      tags: ["Compliance", "Prevencion LA/FT"],
-      source: "https://www.minjusticia.gov.co",
-      body: "Los despachos juridicos manejan informacion sensible y operaciones que pueden requerir debida diligencia reforzada. Por eso es clave identificar al cliente, entender el origen de fondos y conservar soportes sobre operaciones relevantes.\n\nUn programa de cumplimiento practico debe incluir politicas internas, listas de verificacion, responsables definidos y capacitacion periodica para prevenir riesgos legales y reputacionales.",
+    sismo: {
+      date: "Agosto 2026",
+      title: "SIC prohíbe alzas injustificadas de precios tras el sismo del 10 de agosto",
+      tags: ["Consumo", "Protección al Consumidor"],
+      source: "https://www.asuntoslegales.com.co/actualidad/superindustria-expide-medidas-para-proteger-a-damnificados-del-terremoto-4469909",
+      body: "La Superintendencia de Industria y Comercio expidió la Circular 003 del 27 de agosto de 2026, tras la declaratoria de desastre nacional por el sismo del 10 de agosto. La circular prohíbe incrementar de manera sustancial e injustificada los precios de bienes y servicios necesarios para atender la emergencia, como víveres, medicamentos y materiales de construcción.\n\nTambién recuerda que siguen prohibidos los acuerdos entre competidores para fijar precios o restringir la oferta, y que los operadores no pueden cobrar por los periodos en que sus servicios estuvieron interrumpidos por el sismo. La medida rige mientras subsistan los efectos de la emergencia.\n\nComerciantes y distribuidores deben documentar la justificación de cualquier ajuste de precios para responder ante eventuales investigaciones de la SIC.",
     },
   };
 
